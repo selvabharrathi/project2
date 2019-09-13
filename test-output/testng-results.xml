@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14562" started-at="2019-09-13T15:11:50Z" finished-at="2019-09-13T15:12:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14562" started-at="2019-09-13T15:11:50Z" finished-at="2019-09-13T15:12:05Z">
+      <class name="testTwo">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:testTwo@130015a]" name="openapp" duration-ms="14537" started-at="2019-09-13T20:41:50Z" finished-at="2019-09-13T20:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+      </class> <!-- testTwo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
